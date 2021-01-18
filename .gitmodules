@@ -3,3 +3,35 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "attachment"]
+	path = attachment
+	url = https://github.com/thinkr-open/attachment
+	shallow = true
+[submodule "golem"]
+	path = golem
+	url = https://github.com/thinkr-open/golem
+	shallow = true
+[submodule "remedy"]
+	path = remedy
+	url = https://github.com/thinkr-open/remedy
+	shallow = true
+[submodule "rtodoist"]
+	path = rtodoist
+	url = https://github.com/thinkr-open/rtodoist
+	shallow = true
+[submodule "rusk"]
+	path = rusk
+	url = https://github.com/thinkr-open/rusk
+	shallow = true
+[submodule "shinipsum"]
+	path = shinipsum
+	url = https://github.com/thinkr-open/shinipsum
+	shallow = true
+[submodule "thinkr"]
+	path = thinkr
+	url = https://github.com/thinkr-open/thinkr
+	shallow = true
+[submodule "togglr"]
+	path = togglr
+	url = https://github.com/thinkr-open/togglr
+	shallow = true
