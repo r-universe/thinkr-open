@@ -7,6 +7,10 @@
 	path = attachment
 	url = https://github.com/thinkr-open/attachment
 	shallow = true
+[submodule "fcuk"]
+	path = fcuk
+	url = https://github.com/ThinkR-open/fcuk
+	shallow = true
 [submodule "golem"]
 	path = golem
 	url = https://github.com/thinkr-open/golem
@@ -26,6 +30,10 @@
 [submodule "shinipsum"]
 	path = shinipsum
 	url = https://github.com/thinkr-open/shinipsum
+	shallow = true
+[submodule "spongecake"]
+	path = spongecake
+	url = https://github.com/ThinkR-open/spongecake
 	shallow = true
 [submodule "thinkr"]
 	path = thinkr
