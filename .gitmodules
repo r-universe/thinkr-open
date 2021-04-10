@@ -7,39 +7,49 @@
 	path = attachment
 	url = https://github.com/thinkr-open/attachment
 	shallow = true
+	registered = true
 [submodule "fcuk"]
 	path = fcuk
 	url = https://github.com/ThinkR-open/fcuk
 	shallow = true
+	registered = true
 [submodule "golem"]
 	path = golem
 	url = https://github.com/thinkr-open/golem
 	shallow = true
+	registered = true
 [submodule "remedy"]
 	path = remedy
 	url = https://github.com/thinkr-open/remedy
 	shallow = true
+	registered = true
 [submodule "rtodoist"]
 	path = rtodoist
 	url = https://github.com/thinkr-open/rtodoist
 	shallow = true
+	registered = true
 [submodule "rusk"]
 	path = rusk
 	url = https://github.com/thinkr-open/rusk
 	shallow = true
+	registered = true
 [submodule "shinipsum"]
 	path = shinipsum
 	url = https://github.com/thinkr-open/shinipsum
 	shallow = true
+	registered = true
 [submodule "spongecake"]
 	path = spongecake
 	url = https://github.com/ThinkR-open/spongecake
 	shallow = true
+	registered = true
 [submodule "thinkr"]
 	path = thinkr
 	url = https://github.com/thinkr-open/thinkr
 	shallow = true
+	registered = true
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/thinkr-open/togglr
 	shallow = true
+	registered = true
