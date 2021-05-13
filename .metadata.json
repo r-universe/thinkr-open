@@ -1,0 +1,46 @@
+[
+  {
+    "package": "attachment",
+    "oncran": true
+  },
+  {
+    "package": "fcuk",
+    "oncran": false
+  },
+  {
+    "package": "gitdown",
+    "oncran": true
+  },
+  {
+    "package": "golem",
+    "oncran": true
+  },
+  {
+    "package": "remedy",
+    "oncran": true
+  },
+  {
+    "package": "rtodoist",
+    "oncran": true
+  },
+  {
+    "package": "rusk",
+    "oncran": true
+  },
+  {
+    "package": "shinipsum",
+    "oncran": true
+  },
+  {
+    "package": "spongecake",
+    "oncran": false
+  },
+  {
+    "package": "thinkr",
+    "oncran": true
+  },
+  {
+    "package": "togglr",
+    "oncran": true
+  }
+]
