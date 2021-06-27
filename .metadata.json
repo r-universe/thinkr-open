@@ -5,7 +5,7 @@
   },
   {
     "package": "fcuk",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "gitdown",
@@ -33,7 +33,7 @@
   },
   {
     "package": "spongecake",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "thinkr",

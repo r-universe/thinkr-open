@@ -10,7 +10,7 @@
 	registered = true
 [submodule "fcuk"]
 	path = fcuk
-	url = https://github.com/ThinkR-open/fcuk
+	url = https://github.com/thinkr-open/fcuk
 	shallow = true
 	registered = true
 [submodule "gitdown"]
@@ -45,7 +45,7 @@
 	registered = true
 [submodule "spongecake"]
 	path = spongecake
-	url = https://github.com/ThinkR-open/spongecake
+	url = https://github.com/thinkr-open/spongecake
 	shallow = true
 	registered = true
 [submodule "thinkr"]
