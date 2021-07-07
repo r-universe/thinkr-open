@@ -1,60 +1,100 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/thinkr-open/universe
 	shallow = true
 	branch = HEAD
-[submodule "attachment"]
-	path = attachment
-	url = https://github.com/thinkr-open/attachment
-	shallow = true
-	registered = true
-[submodule "fcuk"]
-	path = fcuk
-	url = https://github.com/thinkr-open/fcuk
-	shallow = true
-	registered = true
-[submodule "gitdown"]
-	path = gitdown
-	url = https://github.com/thinkr-open/gitdown
-	shallow = true
-	registered = true
 [submodule "golem"]
 	path = golem
-	url = https://github.com/thinkr-open/golem
-	shallow = true
-	registered = true
-[submodule "remedy"]
-	path = remedy
-	url = https://github.com/thinkr-open/remedy
-	shallow = true
-	registered = true
-[submodule "rtodoist"]
-	path = rtodoist
-	url = https://github.com/thinkr-open/rtodoist
-	shallow = true
-	registered = true
-[submodule "rusk"]
-	path = rusk
-	url = https://github.com/thinkr-open/rusk
-	shallow = true
-	registered = true
-[submodule "shinipsum"]
-	path = shinipsum
-	url = https://github.com/thinkr-open/shinipsum
-	shallow = true
-	registered = true
-[submodule "spongecake"]
-	path = spongecake
-	url = https://github.com/thinkr-open/spongecake
+	url = https://github.com/ThinkR-open/golem
 	shallow = true
 	registered = true
 [submodule "thinkr"]
 	path = thinkr
-	url = https://github.com/thinkr-open/thinkr
+	url = https://github.com/ThinkR-open/thinkr
+	shallow = true
+	registered = true
+[submodule "attachment"]
+	path = attachment
+	url = https://github.com/ThinkR-open/attachment
 	shallow = true
 	registered = true
 [submodule "togglr"]
 	path = togglr
-	url = https://github.com/thinkr-open/togglr
+	url = https://github.com/ThinkR-open/togglr
+	shallow = true
+	registered = true
+[submodule "gitdown"]
+	path = gitdown
+	url = https://github.com/ThinkR-open/gitdown
+	shallow = true
+	registered = true
+[submodule "rtodoist"]
+	path = rtodoist
+	url = https://github.com/ThinkR-open/rtodoist
+	shallow = true
+	registered = true
+[submodule "shinipsum"]
+	path = shinipsum
+	url = https://github.com/ThinkR-open/shinipsum
+	shallow = true
+	registered = true
+[submodule "remedy"]
+	path = remedy
+	url = https://github.com/ThinkR-open/remedy
+	shallow = true
+	registered = true
+[submodule "fcuk"]
+	path = fcuk
+	url = https://github.com/ThinkR-open/fcuk
+	shallow = true
+	registered = true
+[submodule "rusk"]
+	path = rusk
+	url = https://github.com/ThinkR-open/rusk
+	shallow = true
+	registered = true
+[submodule "spongecake"]
+	path = spongecake
+	url = https://github.com/ThinkR-open/spongecake
+	shallow = true
+	registered = true
+[submodule "fusen"]
+	path = fusen
+	url = https://github.com/ThinkR-open/fusen
+	shallow = true
+	registered = true
+[submodule "checkhelper"]
+	path = checkhelper
+	url = https://github.com/ThinkR-open/checkhelper
+	shallow = true
+	registered = true
+[submodule "devindocker"]
+	path = devindocker
+	url = https://github.com/ThinkR-open/devindocker
+	shallow = true
+	registered = true
+[submodule "testdown"]
+	path = testdown
+	url = https://github.com/ThinkR-open/testdown
+	shallow = true
+	registered = true
+[submodule "bank"]
+	path = bank
+	url = https://github.com/ThinkR-open/bank
+	shallow = true
+	registered = true
+[submodule "chameleon"]
+	path = chameleon
+	url = https://github.com/ThinkR-open/chameleon
+	shallow = true
+	registered = true
+[submodule "fakir"]
+	path = fakir
+	url = https://github.com/ThinkR-open/fakir
+	shallow = true
+	registered = true
+[submodule "gitlabr"]
+	path = gitlabr
+	url = https://github.com/statnmap/gitlabr
 	shallow = true
 	registered = true

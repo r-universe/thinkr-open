@@ -1,38 +1,6 @@
 [
   {
-    "package": "attachment",
-    "oncran": true
-  },
-  {
-    "package": "fcuk",
-    "oncran": true
-  },
-  {
-    "package": "gitdown",
-    "oncran": true
-  },
-  {
     "package": "golem",
-    "oncran": true
-  },
-  {
-    "package": "remedy",
-    "oncran": true
-  },
-  {
-    "package": "rtodoist",
-    "oncran": true
-  },
-  {
-    "package": "rusk",
-    "oncran": true
-  },
-  {
-    "package": "shinipsum",
-    "oncran": true
-  },
-  {
-    "package": "spongecake",
     "oncran": true
   },
   {
@@ -40,7 +8,65 @@
     "oncran": true
   },
   {
+    "package": "attachment",
+    "oncran": true
+  },
+  {
     "package": "togglr",
     "oncran": true
+  },
+  {
+    "package": "gitdown",
+    "oncran": true
+  },
+  {
+    "package": "rtodoist",
+    "oncran": true
+  },
+  {
+    "package": "shinipsum",
+    "oncran": true
+  },
+  {
+    "package": "remedy",
+    "oncran": true
+  },
+  {
+    "package": "fcuk",
+    "oncran": true
+  },
+  {
+    "package": "rusk",
+    "oncran": true
+  },
+  {
+    "package": "spongecake",
+    "oncran": true
+  },
+  {
+    "package": "fusen"
+  },
+  {
+    "package": "checkhelper"
+  },
+  {
+    "package": "devindocker"
+  },
+  {
+    "package": "testdown"
+  },
+  {
+    "package": "bank"
+  },
+  {
+    "package": "chameleon",
+    "oncran": false
+  },
+  {
+    "package": "fakir"
+  },
+  {
+    "package": "gitlabr",
+    "oncran": false
   }
 ]
