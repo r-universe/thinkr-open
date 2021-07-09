@@ -45,7 +45,7 @@
   },
   {
     "package": "fusen",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "checkhelper"
