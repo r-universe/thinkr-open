@@ -98,8 +98,3 @@
 	url = https://github.com/statnmap/gitlabr
 	shallow = true
 	registered = true
-[submodule "parsermd"]
-	path = parsermd
-	url = https://github.com/rundel/parsermd
-	shallow = true
-	registered = false
