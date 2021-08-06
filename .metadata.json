@@ -68,6 +68,6 @@
   },
   {
     "package": "gitlabr",
-    "oncran": false
+    "oncran": true
   }
 ]
