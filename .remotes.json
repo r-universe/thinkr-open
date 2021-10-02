@@ -1,5 +1,11 @@
 [
   {
+    "package": "curl",
+    "url": "https://github.com/jeroen/curl",
+    "via": ["tidyversedashboard"],
+    "from": "tidyversedashboard"
+  },
+  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["tutor"],
@@ -11,5 +17,11 @@
     "url": "https://github.com/thinkr-open/prenoms",
     "via": ["tutor"],
     "from": "tutor"
+  },
+  {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["tidyversedashboard"],
+    "from": "tidyversedashboard"
   }
 ]

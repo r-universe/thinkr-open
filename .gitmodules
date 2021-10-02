@@ -134,6 +134,11 @@
 	url = https://github.com/ColinFay/brochure
 	shallow = true
 	registered = true
+[submodule "curl"]
+	path = curl
+	url = https://github.com/jeroen/curl
+	shallow = true
+	registered = false
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
@@ -143,5 +148,10 @@
 [submodule "prenoms"]
 	path = prenoms
 	url = https://github.com/thinkr-open/prenoms
+	shallow = true
+	registered = false
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
 	shallow = true
 	registered = false
