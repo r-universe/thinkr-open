@@ -98,3 +98,8 @@
 	url = https://github.com/statnmap/gitlabr
 	shallow = true
 	registered = true
+[submodule "thinkrtemplate"]
+	path = thinkrtemplate
+	url = https://github.com/ThinkR-open/thinkrtemplate
+	shallow = true
+	registered = true
