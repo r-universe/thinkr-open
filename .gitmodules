@@ -113,3 +113,14 @@
 	url = https://github.com/ThinkR-open/tutor
 	shallow = true
 	registered = true
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	shallow = true
+	branch = b6f1d34518ee462e6d73aae9fe5bd832874c6267
+	registered = false
+[submodule "prenoms"]
+	path = prenoms
+	url = https://github.com/thinkr-open/prenoms
+	shallow = true
+	registered = false
