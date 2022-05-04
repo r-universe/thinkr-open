@@ -103,3 +103,8 @@
 	url = https://github.com/ThinkR-open/thinkrtemplate
 	shallow = true
 	registered = true
+[submodule "covrpage"]
+	path = covrpage
+	url = https://github.com/yonicd/covrpage
+	shallow = true
+	registered = true

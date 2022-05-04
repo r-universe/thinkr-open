@@ -72,5 +72,8 @@
   },
   {
     "package": "thinkrtemplate"
+  },
+  {
+    "package": "covrpage"
   }
 ]
