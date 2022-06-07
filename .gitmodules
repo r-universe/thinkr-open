@@ -108,3 +108,8 @@
 	url = https://github.com/yonicd/covrpage
 	shallow = true
 	registered = true
+[submodule "tutor"]
+	path = tutor
+	url = https://github.com/ThinkR-open/tutor
+	shallow = true
+	registered = true
