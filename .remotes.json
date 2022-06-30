@@ -1,5 +1,11 @@
 [
   {
+    "package": "checkhelper",
+    "url": "https://github.com/thinkr-open/checkhelper",
+    "via": ["cranology"],
+    "from": "cranology"
+  },
+  {
     "package": "curl",
     "url": "https://github.com/jeroen/curl",
     "via": ["tidyversedashboard"],
