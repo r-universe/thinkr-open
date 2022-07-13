@@ -113,6 +113,11 @@
 	url = https://github.com/ThinkR-open/tutor
 	shallow = true
 	registered = true
+[submodule "tidyversedashboardr"]
+	path = tidyversedashboardr
+	url = https://github.com/ThinkR-open/tidyversedashboardr
+	shallow = true
+	registered = true
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
