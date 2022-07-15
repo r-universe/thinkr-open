@@ -113,9 +113,25 @@
 	url = https://github.com/ThinkR-open/tutor
 	shallow = true
 	registered = true
-[submodule "tidyversedashboardr"]
-	path = tidyversedashboardr
-	url = https://github.com/ThinkR-open/tidyversedashboardr
+[submodule "tidyversedashboard"]
+	path = tidyversedashboard
+	url = https://github.com/ThinkR-open/tidyversedashboard
+	shallow = true
+	branch = more-options
+	registered = true
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	shallow = true
+	registered = true
+[submodule "glouton"]
+	path = glouton
+	url = https://github.com/ColinFay/glouton
+	shallow = true
+	registered = true
+[submodule "brochure"]
+	path = brochure
+	url = https://github.com/ColinFay/brochure
 	shallow = true
 	registered = true
 [submodule "learnr"]
