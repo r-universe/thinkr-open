@@ -98,6 +98,11 @@
 	url = https://github.com/statnmap/gitlabr
 	shallow = true
 	registered = true
+[submodule "arpr"]
+	path = arpr
+	url = https://github.com/statnmap/arpr
+	shallow = true
+	registered = true
 [submodule "thinkrtemplate"]
 	path = thinkrtemplate
 	url = https://github.com/ThinkR-open/thinkrtemplate

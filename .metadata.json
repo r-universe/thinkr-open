@@ -71,6 +71,10 @@
     "oncran": true
   },
   {
+    "package": "arpr",
+    "oncran": true
+  },
+  {
     "package": "thinkrtemplate"
   },
   {
