@@ -139,6 +139,16 @@
 	url = https://github.com/ColinFay/brochure
 	shallow = true
 	registered = true
+[submodule "inca3"]
+	path = inca3
+	url = https://github.com/ThinkR-open/inca3
+	shallow = true
+	registered = true
+[submodule "cranology"]
+	path = cranology
+	url = https://github.com/ThinkR-open/cranology
+	shallow = true
+	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
