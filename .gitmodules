@@ -83,9 +83,9 @@
 	url = https://github.com/ThinkR-open/bank
 	shallow = true
 	registered = true
-[submodule "chameleon"]
-	path = chameleon
-	url = https://github.com/ThinkR-open/chameleon
+[submodule "papillon"]
+	path = papillon
+	url = https://github.com/ThinkR-open/papillon
 	shallow = true
 	registered = true
 [submodule "fakir"]
