@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "attachment",
-    "oncran": true
+    "package": "attachment"
   },
   {
     "package": "togglr",
@@ -44,8 +43,7 @@
     "oncran": true
   },
   {
-    "package": "fusen",
-    "oncran": true
+    "package": "fusen"
   },
   {
     "package": "checkhelper"
