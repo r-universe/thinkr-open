@@ -149,6 +149,11 @@
 	url = https://github.com/ThinkR-open/cranology
 	shallow = true
 	registered = true
+[submodule "mariobox"]
+	path = mariobox
+	url = https://github.com/ThinkR-open/mariobox
+	shallow = true
+	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl

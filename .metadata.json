@@ -99,5 +99,8 @@
   },
   {
     "package": "cranology"
+  },
+  {
+    "package": "mariobox"
   }
 ]
