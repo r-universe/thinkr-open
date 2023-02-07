@@ -95,7 +95,7 @@
 	registered = true
 [submodule "gitlabr"]
 	path = gitlabr
-	url = https://github.com/statnmap/gitlabr
+	url = https://github.com/ThinkR-open/gitlabr
 	shallow = true
 	registered = true
 [submodule "arpr"]
