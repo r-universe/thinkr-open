@@ -67,7 +67,7 @@
   },
   {
     "package": "gitlabr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "arpr",
