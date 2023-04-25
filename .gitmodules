@@ -154,6 +154,11 @@
 	url = https://github.com/ThinkR-open/mariobox
 	shallow = true
 	registered = true
+[submodule "rosm"]
+	path = rosm
+	url = https://github.com/paleolimbot/rosm
+	shallow = true
+	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
