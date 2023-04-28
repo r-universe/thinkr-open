@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/thinkr-open/universe
+	url = https://github.com/thinkr-open/thinkr-open.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "golem"]
@@ -157,6 +157,11 @@
 [submodule "rosm"]
 	path = rosm
 	url = https://github.com/paleolimbot/rosm
+	shallow = true
+	registered = true
+[submodule "w3css"]
+	path = w3css
+	url = https://github.com/ThinkR-open/w3css
 	shallow = true
 	registered = true
 [submodule "curl"]
