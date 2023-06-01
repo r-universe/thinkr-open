@@ -100,7 +100,7 @@
 	registered = true
 [submodule "arpr"]
 	path = arpr
-	url = https://github.com/statnmap/arpr
+	url = https://github.com/ThinkR-open/arpr
 	shallow = true
 	registered = true
 [submodule "thinkrtemplate"]
