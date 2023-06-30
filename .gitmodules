@@ -1,181 +1,113 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/thinkr-open/thinkr-open.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "golem"]
 	path = golem
 	url = https://github.com/ThinkR-open/golem
-	shallow = true
-	registered = true
 [submodule "thinkr"]
 	path = thinkr
 	url = https://github.com/ThinkR-open/thinkr
-	shallow = true
-	registered = true
 [submodule "attachment"]
 	path = attachment
 	url = https://github.com/ThinkR-open/attachment
-	shallow = true
-	registered = true
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/ThinkR-open/togglr
-	shallow = true
-	registered = true
 [submodule "gitdown"]
 	path = gitdown
 	url = https://github.com/ThinkR-open/gitdown
-	shallow = true
-	registered = true
 [submodule "rtodoist"]
 	path = rtodoist
 	url = https://github.com/ThinkR-open/rtodoist
-	shallow = true
-	registered = true
 [submodule "shinipsum"]
 	path = shinipsum
 	url = https://github.com/ThinkR-open/shinipsum
-	shallow = true
-	registered = true
 [submodule "remedy"]
 	path = remedy
 	url = https://github.com/ThinkR-open/remedy
-	shallow = true
-	registered = true
 [submodule "fcuk"]
 	path = fcuk
 	url = https://github.com/ThinkR-open/fcuk
-	shallow = true
-	registered = true
 [submodule "rusk"]
 	path = rusk
 	url = https://github.com/ThinkR-open/rusk
-	shallow = true
-	registered = true
 [submodule "spongecake"]
 	path = spongecake
 	url = https://github.com/ThinkR-open/spongecake
-	shallow = true
-	registered = true
 [submodule "fusen"]
 	path = fusen
 	url = https://github.com/ThinkR-open/fusen
-	shallow = true
-	registered = true
 [submodule "checkhelper"]
 	path = checkhelper
 	url = https://github.com/ThinkR-open/checkhelper
-	shallow = true
-	registered = true
 [submodule "devindocker"]
 	path = devindocker
 	url = https://github.com/ThinkR-open/devindocker
-	shallow = true
-	registered = true
 [submodule "testdown"]
 	path = testdown
 	url = https://github.com/ThinkR-open/testdown
-	shallow = true
-	registered = true
 [submodule "bank"]
 	path = bank
 	url = https://github.com/ThinkR-open/bank
-	shallow = true
-	registered = true
 [submodule "papillon"]
 	path = papillon
 	url = https://github.com/ThinkR-open/papillon
-	shallow = true
-	registered = true
 [submodule "fakir"]
 	path = fakir
 	url = https://github.com/ThinkR-open/fakir
-	shallow = true
-	registered = true
 [submodule "gitlabr"]
 	path = gitlabr
 	url = https://github.com/ThinkR-open/gitlabr
-	shallow = true
-	registered = true
 [submodule "arpr"]
 	path = arpr
 	url = https://github.com/ThinkR-open/arpr
-	shallow = true
-	registered = true
 [submodule "thinkrtemplate"]
 	path = thinkrtemplate
 	url = https://github.com/ThinkR-open/thinkrtemplate
-	shallow = true
-	registered = true
 [submodule "covrpage"]
 	path = covrpage
 	url = https://github.com/yonicd/covrpage
-	shallow = true
-	registered = true
 [submodule "tutor"]
 	path = tutor
 	url = https://github.com/ThinkR-open/tutor
-	shallow = true
-	registered = true
 [submodule "tidyversedashboard"]
 	path = tidyversedashboard
 	url = https://github.com/ThinkR-open/tidyversedashboard
-	shallow = true
 	branch = more-options
-	registered = true
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
-	shallow = true
-	registered = true
 [submodule "glouton"]
 	path = glouton
 	url = https://github.com/ColinFay/glouton
-	shallow = true
-	registered = true
 [submodule "brochure"]
 	path = brochure
 	url = https://github.com/ColinFay/brochure
-	shallow = true
-	registered = true
 [submodule "inca3"]
 	path = inca3
 	url = https://github.com/ThinkR-open/inca3
-	shallow = true
-	registered = true
 [submodule "cranology"]
 	path = cranology
 	url = https://github.com/ThinkR-open/cranology
-	shallow = true
-	registered = true
 [submodule "mariobox"]
 	path = mariobox
 	url = https://github.com/ThinkR-open/mariobox
-	shallow = true
-	registered = true
 [submodule "rosm"]
 	path = rosm
 	url = https://github.com/paleolimbot/rosm
-	shallow = true
-	registered = true
 [submodule "w3css"]
 	path = w3css
 	url = https://github.com/ThinkR-open/w3css
-	shallow = true
-	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
-	shallow = true
 	registered = false
 [submodule "prenoms"]
 	path = prenoms
 	url = https://github.com/thinkr-open/prenoms
-	shallow = true
 	registered = false
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/rstudio/rmarkdown
-	shallow = true
 	registered = false
