@@ -12,15 +12,39 @@
     "from": "tidyversedashboard"
   },
   {
+    "package": "gitlabr",
+    "url": "https://github.com/ThinkR-open/gitlabr",
+    "via": ["lozen"],
+    "from": "lozen"
+  },
+  {
     "package": "prenoms",
     "url": "https://github.com/thinkr-open/prenoms",
     "via": ["tutor"],
     "from": "tutor"
   },
   {
+    "package": "renv",
+    "url": "https://github.com/rstudio/renv",
+    "via": ["lozen"],
+    "from": "lozen"
+  },
+  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["tidyversedashboard"],
     "from": "tidyversedashboard"
+  },
+  {
+    "package": "testdown",
+    "url": "https://github.com/ThinkR-open/testdown",
+    "via": ["lozen"],
+    "from": "lozen"
+  },
+  {
+    "package": "thinkrtemplate",
+    "url": "https://github.com/ThinkR-open/thinkrtemplate",
+    "via": ["lozen"],
+    "from": "lozen"
   }
 ]
