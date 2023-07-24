@@ -24,12 +24,6 @@
     "from": "tutor"
   },
   {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
-    "via": ["lozen"],
-    "from": "lozen"
-  },
-  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["tidyversedashboard"],

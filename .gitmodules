@@ -110,10 +110,6 @@
 	path = prenoms
 	url = https://github.com/thinkr-open/prenoms
 	registered = false
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-	registered = false
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/rstudio/rmarkdown
