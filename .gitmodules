@@ -57,6 +57,10 @@
 [submodule "inca3"]
 	path = inca3
 	url = https://github.com/ThinkR-open/inca3
+[submodule "lightparser"]
+	path = lightparser
+	url = https://github.com/ThinkR-open/lightparser
+	registered = false
 [submodule "lozen"]
 	path = lozen
 	url = https://github.com/ThinkR-open/lozen
