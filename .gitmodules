@@ -60,7 +60,6 @@
 [submodule "lightparser"]
 	path = lightparser
 	url = https://github.com/ThinkR-open/lightparser
-	registered = false
 [submodule "lozen"]
 	path = lozen
 	url = https://github.com/ThinkR-open/lozen
