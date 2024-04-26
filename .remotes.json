@@ -18,12 +18,6 @@
     "from": "lozen"
   },
   {
-    "package": "lightparser",
-    "url": "https://github.com/ThinkR-open/lightparser",
-    "via": ["fusen"],
-    "from": "fusen"
-  },
-  {
     "package": "prenoms",
     "url": "https://github.com/thinkr-open/prenoms",
     "via": ["tutor"],
