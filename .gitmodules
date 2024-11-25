@@ -104,10 +104,6 @@
 [submodule "thinkrtemplate"]
 	path = thinkrtemplate
 	url = https://github.com/ThinkR-open/thinkrtemplate
-[submodule "tidyversedashboard"]
-	path = tidyversedashboard
-	url = https://github.com/ThinkR-open/tidyversedashboard
-	branch = more-options
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/ThinkR-open/togglr
