@@ -23,10 +23,6 @@
 [submodule "cranology"]
 	path = cranology
 	url = https://github.com/ThinkR-open/cranology
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
-	registered = false
 [submodule "devindocker"]
 	path = devindocker
 	url = https://github.com/ThinkR-open/devindocker
@@ -76,10 +72,6 @@
 [submodule "remedy"]
 	path = remedy
 	url = https://github.com/ThinkR-open/remedy
-[submodule "rmarkdown"]
-	path = rmarkdown
-	url = https://github.com/rstudio/rmarkdown
-	registered = false
 [submodule "rosm"]
 	path = rosm
 	url = https://github.com/paleolimbot/rosm
