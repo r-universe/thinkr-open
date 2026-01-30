@@ -65,10 +65,6 @@
 [submodule "papillon"]
 	path = papillon
 	url = https://github.com/ThinkR-open/papillon
-[submodule "prenoms"]
-	path = prenoms
-	url = https://github.com/thinkr-open/prenoms
-	registered = false
 [submodule "remedy"]
 	path = remedy
 	url = https://github.com/ThinkR-open/remedy
