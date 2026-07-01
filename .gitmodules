@@ -11,6 +11,9 @@
 [submodule "bank"]
 	path = bank
 	url = https://github.com/ThinkR-open/bank
+[submodule "bootstrict"]
+	path = bootstrict
+	url = https://github.com/ThinkR-open/bootstrict
 [submodule "brochure"]
 	path = brochure
 	url = https://github.com/ColinFay/brochure
