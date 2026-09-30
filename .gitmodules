@@ -68,6 +68,9 @@
 [submodule "papillon"]
 	path = papillon
 	url = https://github.com/ThinkR-open/papillon
+[submodule "pw"]
+	path = pw
+	url = https://github.com/ThinkR-open/pw
 [submodule "remedy"]
 	path = remedy
 	url = https://github.com/ThinkR-open/remedy
